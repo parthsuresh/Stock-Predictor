@@ -1,0 +1,6 @@
+numpy==1.13.0
+pandas==0.20.2
+Quandl==3.1.0
+scikit-learn==0.18.1
+scipy==0.19.0
+sklearn==0.0
