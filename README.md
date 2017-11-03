@@ -13,8 +13,4 @@ $ pip install -r requirements.txt
 
 `$ python stock_predictor.py ticker`
 
-Where ticker stands for the ticker-name of the stock, like AAPL for apple, FB for facebook, etc.
-
-### Future Work
-
-Currently the accuracy of this predictor is about 53%-54%. Using Neural Networks can increase the accuracy to over 80%.
+Where ticker stands for the ticker-name of the stock, like AAPL for apple, FB for facebook, etc
